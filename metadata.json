@@ -1,0 +1,7 @@
+{
+  "name": "1Xmétéo",
+  "description": "Une application élégante de prévisions météorologiques fournissant des prédictions sur 3 jours pour les principaux aéroports du monde, classés par continent et région. Elle utilise l'IA pour fournir des informations météo, des cartes et des conseils de voyage à jour.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
